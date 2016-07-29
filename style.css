@@ -5,6 +5,7 @@ html {
   font: normal 1em "Helvetica Neue", Arial, Helvetica, sans-serif;
   color: #333;
   padding: 2em;
+  line-height: 1.5em;
 }
 
 /* headings */
@@ -17,6 +18,14 @@ a {
 }
 a:hover {
   color: #2A4DA2;
+}
+
+/* code */
+code {
+  background: #949494;
+  border-radius: 2px;
+  color: #fff;
+  padding: .3em;
 }
 
 /* caption */
